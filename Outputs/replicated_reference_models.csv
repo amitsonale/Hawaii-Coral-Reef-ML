@@ -1,0 +1,3 @@
+Model,CV_Micro_F1,Test_Micro_F1
+Logistic Regression (Replicated),0.618929292929293,0.5806451612903226
+Random Forest (Replicated),0.6754141414141415,0.7258064516129032
